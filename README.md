@@ -1,2 +1,2 @@
 # hello-world
-My first repo!
+This is my first repo. I love GitHub. What's going on?
